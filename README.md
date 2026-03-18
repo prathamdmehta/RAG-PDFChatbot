@@ -9,7 +9,7 @@
 
 ## ✨ Live Demo
 
-**[Try it now →](https://rag-pdfchatbot-prathamdmehta.streamlit.app)**
+**[Try it now →](https://rag-pdfchatbot.streamlit.app)**
 1. Upload any PDF document
 2. Ask questions about content
 3. Get precise answers + source quotes
@@ -91,7 +91,7 @@ Monthly heavy use = $0.50
 
 Built with 2026 production AI stack.
 
-**Live Demo**: https://rag-pdfchatbot-prathamdmehta.streamlit.app
+**Live Demo**: https://rag-pdfchatbot.streamlit.app
 
 ---
 
@@ -103,6 +103,8 @@ cat > README.md << 'EOF'
 EOF
 
 # Push live
+```
 git add README.md
 git commit -m "Add production README"
 git push
+```
