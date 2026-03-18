@@ -85,26 +85,25 @@ Monthly heavy use = $0.50
 ```
 
 ## 🎓 Use Cases
+```
 🔬 Research → "Main conclusion?"
 📚 Technical → "Troubleshoot X?"
 📈 Reports → "Q1 revenue trends?"
 📋 Legal → "Key clauses?"
 📖 Textbooks → "Explain chapter 3"
+```
 
 ## 🙌 Acknowledgments
 
 Built with 2026 production AI stack.
-
 **Live Demo**: https://rag-pdfchatbot.streamlit.app
 
 ---
 
 ⭐ **Star this repo!**  
 📢 **Deploy your own**: Fork → Deploy → Share!
-# Save file
-cat > README.md << 'EOF'
-[Paste the markdown above here]
-EOF
+
+---
 
 # Push live
 ```
