@@ -40,11 +40,13 @@ Deployment: Streamlit Community Cloud
 ## 🚀 Production Deployment
 
 **Live worldwide**: https://rag-pdfchatbot-prathamdmehta.streamlit.app
+```
 ✅ Auto-scaling (1000s concurrent users)
 ✅ 99.9% uptime guarantee
 ✅ Instant Git deploys
 ✅ Mobile-first responsive design
 ✅ Free forever hosting
+```
 
 ## 📊 How It Works
 1. PDF → Intelligent text chunking (500 chars)
