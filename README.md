@@ -67,6 +67,7 @@ streamlit run streamlit_app.py
 ```
 
 ## 📁 Project Structure
+```
 📁 RAG-PDFChatbot/
 ├── streamlit_app.py # 🌐 Production web UI
 ├── chatbot_core.py # 🧠 RAG pipeline logic
@@ -74,6 +75,7 @@ streamlit run streamlit_app.py
 ├── requirements.txt # Dependencies
 ├── .gitignore # Secrets management
 └── README.md # This file
+```
 
 ## 💰 Cost Breakdown
 $5 credit = 16K+ questions (~6 months)
