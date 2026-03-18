@@ -78,9 +78,11 @@ streamlit run streamlit_app.py
 ```
 
 ## 💰 Cost Breakdown
+```
 $5 credit = 16K+ questions (~6 months)
 1 session (5 questions) = $0.01
 Monthly heavy use = $0.50
+```
 
 ## 🎓 Use Cases
 🔬 Research → "Main conclusion?"
