@@ -27,6 +27,7 @@
 | **Global Deployment** | Streamlit Cloud (worldwide) |
 
 ## 🛠 Tech Stack
+```
 Frontend: Streamlit (production UI)
 RAG Pipeline: LangChain v1.2.12
 Vector Search: FAISS (semantic indexing)
@@ -34,7 +35,7 @@ Embeddings: all-MiniLM-L6-v2 (HuggingFace)
 LLM: GPT-4o-mini (production-grade)
 PDF Parsing: PyPDFLoader
 Deployment: Streamlit Community Cloud
-
+```
 
 ## 🚀 Production Deployment
 
